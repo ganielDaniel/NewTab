@@ -1,12 +1,12 @@
 {
-    "name": "@titaniumnetwork-dev/ultraviolet",
+    "name": "@NewTab",
     "version": "2.0.0",
-    "description": "Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!",
+    "description": "A Chromium-based Browser by Google",
     "main": "lib/index.cjs",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/titaniumnetwork-dev/Ultraviolet.git"
+        "url": "https://github.com/NewTab.git"
     },
     "files": [
         "dist",
